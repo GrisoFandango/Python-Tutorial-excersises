@@ -1,0 +1,9 @@
+README.md
+setup.py
+yuripdf/__init__.py
+yuripdf/pdf2image.py
+yuripdf/pdf2text.py
+yuripdf.egg-info/PKG-INFO
+yuripdf.egg-info/SOURCES.txt
+yuripdf.egg-info/dependency_links.txt
+yuripdf.egg-info/top_level.txt
